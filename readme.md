@@ -6,4 +6,6 @@ To setup:<br>
 1. Configure it by edditing config.sh
 2. Run createVm.bash
 <br>
-To run: Just open runVm.bash
+To run just open runVm.bash
+<br>
+For now it just has acces to all of your usb devices and chosen directory.
